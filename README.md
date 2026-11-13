@@ -1,6 +1,6 @@
 ### Hi, I'm Jimmy 👋
 
-- NEU 信息系统硕士（M.S. Information Systems），本科 XJTLU
+- M.S. Information Systems @ NEU · B.S. Information and Computing Science @ XJTLU
 - 方向：软件测试 / 测试开发 / 后端开发
 - 常用：Java · Python · Spring Boot · pytest · Docker · Linux；在用 Claude Code 辅助开发与代码审计
 
