@@ -2,7 +2,7 @@
 
 - M.S. Information Systems @ NEU · B.S. Information and Computing Science @ XJTLU
 - 方向：软件测试 / 测试开发 / 后端开发
-- 常用：Java · Python · Spring Boot · pytest · Docker · Linux；在用 Claude Code 辅助开发与代码审计
+- Tech: Java · Python · Spring Boot · pytest · Docker · Linux; AI-assisted development and code review with Claude Code
 
 #### 项目
 
